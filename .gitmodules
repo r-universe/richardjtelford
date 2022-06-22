@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "palaeoSig"]
+	path = palaeoSig
+	url = https://github.com/richardjtelford/palaeosig
+	shallow = true
+	registered = true
