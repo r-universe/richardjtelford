@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "checker"]
+	path = checker
+	url = https://github.com/richardjtelford/checker
+	shallow = true
+	registered = true
 [submodule "palaeoSig"]
 	path = palaeoSig
 	url = https://github.com/richardjtelford/palaeosig
